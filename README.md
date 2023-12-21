@@ -1,4 +1,4 @@
-![App Banner](Documentation/8Ball.jpg)
+![App Banner](Documentation/8Ball%20Swift.jpg)
 
 # Magic 8 Ball
 
